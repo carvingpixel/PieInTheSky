@@ -1,0 +1,26 @@
+
+body { background: #FCF4D9;}
+
+h1,h2,h3,h4 {color:#D08E2D;}
+
+p, li, label {color:#4D3828;}
+
+h2 {font-family:Georgia, serif; font-weight:bold;margin-top:0;}
+
+#racerForm {margin-bottom:100px;}
+
+.success {font-style:italic;font-size:17px;}
+
+footer {
+    background-color: #4D3828;
+    padding: 25px;
+    position:fixed;
+    left:0;
+    bottom:0;
+    height:30px;
+    width:100%;
+}
+
+button {background:#4D3828;}
+
+footer p {color:#FCF4D9;}
